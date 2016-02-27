@@ -4,4 +4,3 @@ app = Flask(__name__)
 
 #initialize views
 from project import views
-~
