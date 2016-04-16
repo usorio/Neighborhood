@@ -1,2 +1,2 @@
-# Unplanet
+# unplanet
 Explore better.
